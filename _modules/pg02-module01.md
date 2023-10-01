@@ -6,7 +6,7 @@ parent: Modules
 nav_order: 2
 ---
 
-# Contents:
+Contents:
 * [Part 1](#part-1)
 * [Part 2](#part-2)
 
