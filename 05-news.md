@@ -3,7 +3,7 @@ layout: page
 title: News
 description: A feed containing all of the project news.
 permalink: /news/
-has_children: true
+has_children: false
 nav_order: 5
 ---
 
