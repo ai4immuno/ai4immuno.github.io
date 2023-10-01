@@ -1,4 +1,5 @@
 ---
+layout: lecture
 title: AI Models vs. AI Tools
 permalink: /modules/pg01-ai-models-vs-tools
 parent: Modules

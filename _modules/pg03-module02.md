@@ -1,4 +1,5 @@
 ---
+layout: lecture
 title: Module 02
 permalink: /modules/pg03-module02
 parent: Modules
