@@ -8,9 +8,7 @@ nav_order: 5
 ---
 
 
-# Announcements
-
-Announcements are stored in the `_announcements` directory and rendered according to the layout file, `_layouts/announcement.html`.
+# News
 
 {% assign news = site.news | reverse %}
 {% for article in news %}
