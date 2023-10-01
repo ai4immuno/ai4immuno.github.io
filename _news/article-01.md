@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: 1st News
 permalink: /news/article-01
 week: 0
