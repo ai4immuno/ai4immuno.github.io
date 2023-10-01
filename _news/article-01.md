@@ -8,4 +8,3 @@ nav_order: 1
 ---
 
 Hello world from news article 1
-{: .fs-5 }
