@@ -33,21 +33,20 @@ permalink: pretty
 #     - 'https://kevinl.info'
 #   Just the Class on GitHub:
 #     - 'https://github.com/kevinlin1/just-the-class'
-footer_content:
+footer_content: "&copy; 2023 Anonymized Authors per NeurIPS Workshop Submission Policies"
 
 # Collections for website data
 collections:
-  staffers:
+  teammates:
   modules:
-  schedules:
-  announcements:
+  news:
 # Default layouts for each collection type
 defaults:
   - scope:
       path: ''
-      type: staffers
+      type: teammates
     values:
-      layout: staffer
+      layout: team
       height: 300
       subpath: '/assets/images/'
       width: 300
@@ -58,14 +57,9 @@ defaults:
       layout: module
   - scope:
       path: ''
-      type: schedules
+      type: news
     values:
-      layout: schedule
-  - scope:
-      path: ''
-      type: announcements
-    values:
-      layout: announcement
+      layout: news
 
 compress_html:
   clippings: all
