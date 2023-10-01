@@ -19,7 +19,7 @@ description: Warm welcome to scientists from non-coding backgrounds!
 author: Anonymized Author
 #baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
 url: 'https://ai4immuno.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "disabled"]
 logo: "/assets/images/ai4immuno-bing-dalle-logo-01.png"
 
 # Theme settings
@@ -37,19 +37,18 @@ footer_content: "&copy; 2023 Anonymized Authors per NeurIPS Workshop Submission 
 
 # Collections for website data
 collections:
-  teammates:
+  staffers:
   modules:
-  news:
+  schedules:
+#  announcements:
 # Default layouts for each collection type
 defaults:
   - scope:
       path: ''
-      type: team
+      type: staffers
     values:
-      layout: team
-      height: 300
+      layout: staffer
       subpath: '/assets/images/'
-      width: 300
   - scope:
       path: ''
       type: modules
@@ -57,9 +56,14 @@ defaults:
       layout: module
   - scope:
       path: ''
-      type: news
+      type: schedules
     values:
-      layout: article
+      layout: schedule
+  - scope:
+      path: ''
+      type: announcements
+    values:
+      layout: announcement
 
 compress_html:
   clippings: all
