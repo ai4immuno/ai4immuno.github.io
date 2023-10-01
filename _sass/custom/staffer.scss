@@ -1,45 +1,23 @@
 .staffer {
   display: flex;
-  margin: $sp-4 0;
+  margin: $sp-4;
 
   .staffer-image {
     border-radius: 50%;
     height: 100px;
     margin-right: $sp-4;
-    width: auto;
   }
 
-  .anchor-heading {
-    right: auto;
-    left: -$sp-5;
-  }
-
-  .staffer-name,
-  .staffer-meta,
-  p {
-    margin: 0 0 $sp-1 0;
-  }
-
+  p,
   .staffer-name {
-    @extend .d-inline-block;
+    margin: $sp-1 !important;
   }
 
   .staffer-pronouns {
-    @extend .label, .text-grey-dk-300, .bg-grey-lt-000;
-
-    user-select: none;
+    @extend .label, .text-grey-dk-100, .bg-grey-lt-200;
   }
 
   .staffer-meta {
-    dt, dd, dd + dt {
-      margin-top: 0;
-    }
-  }
-
-  @include mq(sm) {
-    .staffer-meta {
-      display: grid;
-      grid-template-columns: auto 1fr;
-    }
+    @extend .text-grey-dk-000;
   }
 }

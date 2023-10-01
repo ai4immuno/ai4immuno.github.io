@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Resources
-permalink: /resources/
-nav_order: 6
+title: Other Resources
+nav_order: 5
 ---
 
 ## Other Resources
@@ -16,7 +15,6 @@ The [Software Engineering Radio podcast](https://www.se-radio.net) (also availab
 * [Chris Richardson on Microservice Patterns, with Robert Blumen, 2019](https://www.se-radio.net/2019/06/episode-370-chris-richardson-on-microservice-patterns/)
 * [Margaret Burnett on Gender, Cognitive Styles and Usability Bugs, with Felienne Hermans, 2019](https://www.se-radio.net/2019/09/episode-380-margaret-burnett-on-gender-cognitive-styles-usability-bugs/)
 * [Michaela Greiler on Code Reviews, with Felienne Hermans, 2020](https://www.se-radio.net/2020/02/episode-400-michaela-greiler-on-code-reviews/)
-* [Ipek Ozkaya on Managing Technical Debt, 2021](https://www.se-radio.net/2021/10/episode-481-ipek-ozkaya-on-managing-technical-debt/)
 
 ### Code style
 
@@ -32,7 +30,7 @@ The definitive list of "code smells" that should be avoiding in programming, mat
 ### Design Patterns
 
 * Book (free via library): ["Design Patterns Explained: A New Perspective on Object-Oriented Design" by Alan Shalloway and James Trott](https://learning.oreilly.com/library/view/design-patterns-explained/0201715945/)<br />In-depth coverage of design patterns, considering why they are important in software development, how to apply them, and descriptions of some common patterns.
-* Book (free via library): ["Refactoring to Patterns" by Joshua Kerievsky](https://learning.oreilly.com/library/view/refactoring-to-patterns/0321213351/)<br />A unification of the classic Gang of Four Design Patterns work with Fowler's refactoring work, with practical example of how to introduce patterns into existing code bases to improve code quality. 
+* Book (free via library): ["Refactoring to Patterns" by Joshua Kerievsky](https://learning.oreilly.com/library/view/refactoring-to-patterns/0321213351/)<br />A unification of the class Gang of Four Design Patterns work with Fowler's refactoring work, with practical example of how to introduce patterns into existing code bases to improve code quality. 
 * ["Fundamentals of Software Architecture" By Mark Richards and Neal Ford](https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/)<br />
 An overview of software architectural patterns and their role in successful software projects.
 
@@ -48,4 +46,5 @@ An overview of software architectural patterns and their role in successful soft
 
 ### Program Understanding
 * Book: ["The Programmer's Brain" by Felienne Hermans](https://www.manning.com/books/the-programmers-brain))<br />
-  A survey of research on programming and cognition, covering topics such as how to read code more effectively and how to write code that is easier to read and share.
+    An early-release text that links studies in human cognition to software engineering taks like reading and writing code.
+

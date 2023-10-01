@@ -39,8 +39,8 @@ footer_content: "&copy; 2023 Anonymized Authors per NeurIPS Workshop Submission 
 collections:
   staffers:
   modules:
-  schedules:
-  announcements:
+ # schedules:
+ # announcements:
 # Default layouts for each collection type
 defaults:
   - scope:
