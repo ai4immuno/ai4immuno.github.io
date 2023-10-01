@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: AI 4 IMMUNO
+title: AI for Immunology
 tagline: An AI tools tutorial website for scientists
 description: Warm welcome to scientists from non-coding backgrounds!
 author: Anonymized Author
