@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 1st News
-permalink: /news/arcticle-01
+permalink: /news/article-01
 week: 0
 date: 2023-09-30
 parent: News
