@@ -16,9 +16,9 @@ Staff information is stored in the `_staffers` directory and rendered according 
 
 ## Main AI4Immuno Leads
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-{% for staffer in instructors %}
-{{ staffer }}
+{% assign contributors = site.team | where: 'role', 'Contributor' %}
+{% for team in contributors %}
+{{ team }}
 {% endfor %}
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}

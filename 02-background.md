@@ -1,8 +1,8 @@
 ---
 layout: page
-title: AI Tools Background
+title: Background
 permalink: /background/
-has_children: true
+has_children: false
 nav_order: 2
 ---
 

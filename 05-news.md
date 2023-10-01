@@ -1,7 +1,6 @@
 ---
 layout: page
 title: News
-nav_exclude: false
 description: A feed containing all of the project news.
 permalink: /news/
 has_children: true

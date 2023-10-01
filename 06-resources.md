@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Other Resources
+title: Resources
+permalink: /resources/
 nav_order: 6
 ---
 
