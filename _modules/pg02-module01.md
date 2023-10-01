@@ -1,12 +1,11 @@
 ---
-layout: module
 title: Module 01
 permalink: /modules/pg02-module01
 parent: Modules
 nav_order: 2
 ---
 
-Contents:
+# Contents:
 * [Part 1](#part-1)
 * [Part 2](#part-2)
 

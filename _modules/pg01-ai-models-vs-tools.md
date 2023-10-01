@@ -1,12 +1,11 @@
 ---
-layout: module
 title: AI Models vs. AI Tools
 permalink: /modules/pg01-ai-models-vs-tools
 parent: Modules
 nav_order: 1
 ---
 
-Contents:
+# Contents:
 * [What are AI Models?](#ai-models)
 * [Whart are AI Tools](#ai-tools)
 
