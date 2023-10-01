@@ -4,7 +4,7 @@ title: Team
 description: A listing of all the team members
 permalink: /team/
 has_children: true
-nav_order: 6
+nav_order: 4
 ---
 
 {:toc}

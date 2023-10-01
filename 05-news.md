@@ -1,9 +1,13 @@
 ---
 layout: page
 title: News
-nav_exclude: true
+nav_exclude: false
 description: A feed containing all of the project news.
+permalink: /news/
+has_children: true
+nav_order: 5
 ---
+
 
 # Announcements
 
