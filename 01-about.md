@@ -3,7 +3,11 @@ layout: page
 title: About
 description: >-
     Overview of the AI for Immunology website.
+permalink: /about/
+has_children: no
+nav_order: 1
 ---
+
 
 # About
 {:.no_toc}
