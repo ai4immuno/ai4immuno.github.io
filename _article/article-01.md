@@ -4,5 +4,5 @@ week: 0
 date: 2023-09-30
 ---
 
-Hello world!
+Hello world from news article 1
 {: .fs-5 }

@@ -59,7 +59,7 @@ defaults:
       path: ''
       type: news
     values:
-      layout: news
+      layout: article
 
 compress_html:
   clippings: all
