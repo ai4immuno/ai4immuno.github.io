@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: module
 title: Module 03
 permalink: /modules/pg04-module03
 parent: Modules

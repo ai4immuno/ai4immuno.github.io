@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: module
 title: 1st News
 permalink: /news/article-01
 week: 0
