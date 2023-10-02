@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other Resources
+title: Learning Resources
 nav_order: 5
 ---
 

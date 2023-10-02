@@ -28,12 +28,17 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
+# External navigation links
+nav_external_links:
+  - title: Discussion Forum
+    url: https://github.com/ai4immuno/ai4immuno.github.io/discussions
+    hide_icon: true # set to true to hide the external link icon - defaults to false
 # aux_links:
 #   Kevin Lin:
 #     - 'https://kevinl.info'
 #   Just the Class on GitHub:
 #     - 'https://github.com/kevinlin1/just-the-class'
-footer_content: "&copy; 2023 Anonymized Authors per NeurIPS Workshop Submission Policies"
+footer_content: "&copy; 2023 Anonymized Authors per NeurIPS Workshop Submission Policies [MIT License]"
 
 # Collections for website data
 collections:

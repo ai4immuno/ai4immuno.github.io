@@ -1,10 +1,10 @@
 ---
 layout: home
-title: CS4530/5500, Spring 2021
+title: AI for Immunology
 nav_exclude: true
 seo:
   type: Course
-  name: CS4530 + CS5500, Fundamentals/Foundations of Software Engineering
+  name: AI for Immunology
 ---
 
 # {{ site.title }}: {{ site.tagline }}
