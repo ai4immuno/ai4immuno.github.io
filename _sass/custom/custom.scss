@@ -8,6 +8,11 @@
 @import 'staffer';
 
 // Overrides
+.site-header {
+  height: 5rem;
+  max-height: 10rem;
+}
+
 a abbr[title] {
   border-bottom: none;
 }
