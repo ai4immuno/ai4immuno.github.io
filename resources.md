@@ -1,15 +1,27 @@
 ---
 layout: page
 title: Learning Resources
-nav_order: 5
+nav_order: 3
 ---
 
-## Other Resources
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+
+## Additional Resources
 
 There are many articles, blogs, books and podcasts that are very interesting for more reading on the topics discussed in class. We'll update this list as the semester goes, and if you have suggestions of materials to share, please let us know and we'll add it to the list.
 
-### Podcasts
-The [Software Engineering Radio podcast](https://www.se-radio.net) (also available wherever you get your podcasts) aims to produce educational material for professional softare developers, and includes conversations between experts and researchers on various software engineering topics. Here are a few of our favorites that are most relevant to topics that we cover in this class:
+## AI4Science
+AI 4 Science is a growing community dedicated to AI-assisted 
+* Paper
+* 
+
+## Immunology
+The [item](https://www.se-radio.net):
 * [Donny Nadolny on Debugging Distributed Systems, with Robert Blumen, 2017](https://www.se-radio.net/2017/02/se-radio-episode-282-donny-nadolny-on-debugging-distributed-systems/)
 * [Jafar Soltani on Continuous Delivery for Multiplayer Games, with Nate Black, 2018](https://www.se-radio.net/2018/09/se-radio-episode-339-jafar-soltani-on-continuous-delivery-for-multiplayer-games/)
 * [Chris Richardson on Microservice Patterns, with Robert Blumen, 2019](https://www.se-radio.net/2019/06/episode-370-chris-richardson-on-microservice-patterns/)
