@@ -11,7 +11,7 @@ nav_order: 3
 {:toc}
 
 
-## Learning Resources
+## Overview: Learning Resources
 
 Although the most cutting-edge research is published in premier academic journals, announcements for AI tools are found in a host of other places online. In most cases, advances in AI tools are not written up as research papers and peer-reviewed. 
 
@@ -44,22 +44,12 @@ Instead, the latest news can be found on social media platforms, community forum
     * And many more!
 
 
-## AI4Science Community
-AI for Science is a growing community dedicated to AI-assisted scientific discovery across a wide range of domains (pictured below). This community has hosted several workshops at ICML and NeurIPS in addition to publishing a Nature paper on the role of AI in scientific discovery. 
-* Website: [AI4Science Community](https://ai4sciencecommunity.github.io/)
-* Scientific Article: [Wang, H., Fu, T., Du, Y. et al. Scientific discovery in the age of artificial intelligence. Nature (2023)](https://www.nature.com/articles/s41586-023-06221-2#citeas)
-* LinkedIn: [AI for Science LinkedIn Group](https://www.linkedin.com/company/ai-for-science/)
-* Twitter: [@AI_for_Science](https://twitter.com/AI_for_Science)
-
-![A4Science Fig](/assets/images/01-ai4science-fig.png)
-
-
 ## Immunology
 * TODO
 * Need suggestions on what to add here
 
 
-## Formal School vs. Self-Taught Methods
+## Formal Schooling vs. Self-Taught Methods
 * CS courses vs data science vs bioinformatics vs learn by failing models
 
 ## Massive Open Online Courses (MOOC)
@@ -74,3 +64,13 @@ AI for Science is a growing community dedicated to AI-assisted scientific discov
 ## ML Operations
 
 * Category: [hyperlink text](link)<br />description follows here
+
+
+## AI4Science Community
+AI for Science is a growing community dedicated to AI-assisted scientific discovery across a wide range of domains (pictured below). This community has hosted several workshops at ICML and NeurIPS in addition to publishing a Nature paper on the role of AI in scientific discovery. 
+* Website: [AI4Science Community](https://ai4sciencecommunity.github.io/)
+* Article: [Wang, H., Fu, T., Du, Y. et al. Scientific discovery in the age of artificial intelligence. Nature (2023)](https://www.nature.com/articles/s41586-023-06221-2#citeas)
+* LinkedIn: [AI for Science LinkedIn Group](https://www.linkedin.com/company/ai-for-science/)
+* Twitter: [@AI_for_Science](https://twitter.com/AI_for_Science)
+
+![A4Science Fig](/assets/images/01-ai4science-fig.png)

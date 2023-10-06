@@ -3,7 +3,7 @@ layout: lecture
 title: Module 8 - Building Interactive Tools
 permalink: /modules/module08
 parent: Modules
-nav_order: 
+nav_order: 8
 ---
 
 ## Table of contents
