@@ -27,25 +27,37 @@ seo:
 
 ## Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+For better or worse, artificial intelligence (AI) has become irrevocably woven into the fabric of our daily lives. What was once a concept confined to the realms of science fiction is now a ubiquitous reality. Take, for instance, AI chatbots like ChatGPT, which reached 100 million households in a matter of months, a feat that has taken landline telephones 75 years to accomplish. The proliferation of AI tools in the commercial market shows no signs of slowing down anytime soon, making it impossible for the academic community to keep pace with the hundreds, if not thousands, of new tools being released daily.
 
-## AI Models vs. AI Tools
-
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
 
 ## Using AI Tools
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+In this rapidly evolving landscape, AI has become an indispensable part of the scientific discovery process, from the initial stages of brainstorming and hypothesis generation to text editing, summarizing notes, cleaning data, writing, and debugging code, assisting in analysis, and beyond. Regardless of one’s academic discipline, the urgent question that every field faces is how to implement these AI tools into research practices and provide comprehensive technical training for students, faculty, and staff. Consequently, there is a pressing need to expand and enhance educational resources that serve as gateways to bridge the ever-widening computational literacy gap. 
+
+
+
+## State of Computational Immunology
+
+Fields like computational biology, genomics, and cheminformatics have made considerable progress in establishing robust computing frameworks over the past several decades. In contrast, the field of computational immunology, although relatively nascent, holds immense potential due to its rich data landscape and inherent complexity. Thus, there is a unique opportunity for scientists to utilize AI tools to enhance research productivity in powerful, unprecedented ways.
+
+
+## AI Tools vs. AI Models
+
+TODO
+
+We center a holistic approach by advocating for AI-powered tools and training that empower immunologists to tackle the data-driven complexities of their discipline with confidence and competence. 
+
+Within this context, we delve into how AI software tools can serve as invaluable assistive technologies, breaking down disciplinary barriers and helping scientists overcome steep learning curves. 
 
 ## Real-World Examples
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+Additionally, we present real-world examples gathered from various social media platforms, showcasing how scientists can leverage these instances to craft domain-specific applications. Our inspiration stems from users on platforms such as Reddit and X/Twitter, who have used AI tools, such as ChatGPT and GitHub Copilot, to create entire applications and small-scale software demos, often without extensive prior programming knowledge.
 
 
 ## AI for Immunology Scenarios
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+ TODO
 
 ## Learning Resources
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+Furthermore, we provide a complementary website containing learning modules and supplementary educational resources. Our goal is to prepare future immunologists to take the lead in developing the computational immunology infrastructure, a challenge they are uniquely positioned to strategize and address as domain experts. Generative AI applications are fundamentally reshaping the way scientists across disciplines approach research problems, and it is essential that we equip the next generation with the tools, knowledge, and agency they need to thrive in this evolving environment.

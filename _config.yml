@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: AI for Immunology
-tagline: a tutorial website for AI-assisted development
+tagline: a tutorial website for AI-assisted development for the immunology field
 description: Warm welcome to scientists from non-coding backgrounds!
 author: Anonymized Author
 #baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
