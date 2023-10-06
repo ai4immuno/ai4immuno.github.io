@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: Module 7 - Description
+title: Module 7 - Data Analysis
 permalink: /modules/module07
 parent: Modules
 nav_order: 7

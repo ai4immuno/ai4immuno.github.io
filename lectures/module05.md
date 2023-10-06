@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: Module 5 - Description
+title: Module 5 - General Research Productivity
 permalink: /modules/module05
 parent: Modules
 nav_order: 5

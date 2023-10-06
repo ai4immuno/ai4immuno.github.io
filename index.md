@@ -26,6 +26,7 @@ seo:
 ---
 
 ## Overview
+We would like to extend a warm welcome to scientists coming from a wide range of coding backgrounds!
 
 For better or worse, artificial intelligence (AI) has become irrevocably woven into the fabric of our daily lives. What was once a concept confined to the realms of science fiction is now a ubiquitous reality. Take, for instance, AI chatbots like ChatGPT, which reached 100 million households in a matter of months, a feat that has taken landline telephones 75 years to accomplish. The proliferation of AI tools in the commercial market shows no signs of slowing down anytime soon, making it impossible for the academic community to keep pace with the hundreds, if not thousands, of new tools being released daily.
 

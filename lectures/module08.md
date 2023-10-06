@@ -1,9 +1,9 @@
 ---
 layout: lecture
-title: Module 6 - AI-Assisted Pair Programming
-permalink: /modules/module06
+title: Module 8 - Building Interactive Tools
+permalink: /modules/module08
 parent: Modules
-nav_order: 6
+nav_order: 
 ---
 
 ## Table of contents
@@ -13,4 +13,4 @@ nav_order: 6
 {:toc}
 
 ## Overview
-Module 6 overview
+Module 8 overview

@@ -19,5 +19,5 @@ Module 4 overview
 
 ## Intro to Prompt Engineering
 
-## Domain-Specific Application
+## Domain-Specific AI Chat Application
 - Link and describe Jane the Immunology Tool and credit the group that made it 
