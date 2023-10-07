@@ -8,11 +8,9 @@ seo:
 ---
 
 # {{ site.title }}:
-{: .no_toc }
-{: .fs-10 .fw-600 }
+{: .no_toc .fs-10 .fw-700 }
 # {{ site.tagline }}
-{: .no_toc }
-{: .fs-7 .fw-400 }
+{: .no_toc .fs-6 .fw-400 }
 
 {% if site.announcements %}
 {{ site.announcements.last }}
