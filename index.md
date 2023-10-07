@@ -31,6 +31,9 @@ We would like to extend a warm welcome to scientists coming from a wide range of
 For better or worse, artificial intelligence (AI) has become irrevocably woven into the fabric of our daily lives. What was once a concept confined to the realms of science fiction is now a ubiquitous reality. Take, for instance, AI chatbots like ChatGPT, which reached 100 million households in a matter of months, a feat that has taken landline telephones 75 years to accomplish. The proliferation of AI tools in the commercial market shows no signs of slowing down anytime soon, making it impossible for the academic community to keep pace with the hundreds, if not thousands, of new tools being released daily.
 
 
+## The Promise of AI in Immunology
+
+
 ## Using AI Tools
 
 In this rapidly evolving landscape, AI has become an indispensable part of the scientific discovery process, from the initial stages of brainstorming and hypothesis generation to text editing, summarizing notes, cleaning data, writing, and debugging code, assisting in analysis, and beyond. Regardless of one’s academic discipline, the urgent question that every field faces is how to implement these AI tools into research practices and provide comprehensive technical training for students, faculty, and staff. Consequently, there is a pressing need to expand and enhance educational resources that serve as gateways to bridge the ever-widening computational literacy gap. 
