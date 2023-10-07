@@ -4,6 +4,11 @@ title: Learning Resources
 nav_order: 4
 ---
 
+# {{ site.title }}:
+{: .no_toc .fs-10 .fw-700 }
+{{ site.tagline }}
+{: .no_toc .fs-6 .fw-400 }
+
 ## Learning Resources
 
 Although the most cutting-edge research is published in premier academic journals, announcements for AI tools are found in a host of other places online. In most cases, advances in AI tools are not written up as research papers and peer-reviewed. 
@@ -45,6 +50,24 @@ Instead, the latest news can be found on social media platforms, community forum
 * Substack
 * Towards Data Science
 
+### Scientific Workshops and Conferences
+* Machine Learning for Health (ML4H) Symposium
+* Conference on Health Learning Inference (CHIL)
+* NeurIPS and Related Workshops
+* ICML and Related Workshops
+* SC (Supercomputing) Conference
+* UMich Workshop
+* GenAI for Oak Ridge Science Workshop
+* ISMB/ECCB Conferences
+* Stanford Future of Gen AI in Medicine Workshop
+* Open to more suggestions!
+
+### Books for Emerging Tech Trends
+* Future Skills: The 20 Skills and Competencies Everyone Needs to Succeed in a Digital World by Bernard Marr
+* After the Digital Tornado: Networks, Algorithms, Humanity by Kevin Werbach
+* Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications by Chip Huyen
+* The Future Internet: How the Metaverse, Web 3.0, and Blockchain Will Transform Business and Society by Bernard Marr
+
 ### Technology News Digests
 * Wired
 * TechCrunch
@@ -60,29 +83,10 @@ Instead, the latest news can be found on social media platforms, community forum
 * Ars Technica
 * KDNuggets
 
-### Scientific Workshops and Conferences
-* Machine Learning for Health (ML4H) Symposium
-* Conference on Health Learning Inference (CHIL)
-* NeurIPS and Related Workshops
-* ICML and Related Workshops
-* SC (Supercomputing) Conference
-* UMich Workshop
-* GenAI for Oak Ridge Science Workshop
-* ISMB/ECCB Conferences
-* Stanford Future of Gen AI in Medicine Workshop
-* Open to more suggestions!
-
 ### General Media Coverage
 * Forbes
 * BusinessInsider
 * And many more
-
-## Books on Emerging Tech Trends
-* Future Skills: The 20 Skills and Competencies Everyone Needs to Succeed in a Digital World by Bernard Marr
-* After the Digital Tornado: Networks, Algorithms, Humanity by Kevin Werbach
-* Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications by Chip Huyen
-* The Future Internet: How the Metaverse, Web 3.0, and Blockchain Will Transform Business and Society by Bernard Marr
-
 <br> In addition to the websites listed above, here are some summary articles curated with AI news outlets.
 
 * Forbes: ["The 29 Best (And Free) ChatGPT And Generative AI Courses And Resources"](https://www.forbes.com/sites/bernardmarr/2023/05/24/the-29-best-and-free-chatgpt-and-generative-ai-courses-and-resources/?sh=14bf14a94a6f)
