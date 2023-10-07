@@ -34,7 +34,7 @@ For better or worse, artificial intelligence (AI) has become irrevocably woven i
 ## The Promise of AI in Immunology
 
 
-## Using AI Tools
+## Modules for Using AI Tools
 
 In this rapidly evolving landscape, AI has become an indispensable part of the scientific discovery process, from the initial stages of brainstorming and hypothesis generation to text editing, summarizing notes, cleaning data, writing, and debugging code, assisting in analysis, and beyond. Regardless of one’s academic discipline, the urgent question that every field faces is how to implement these AI tools into research practices and provide comprehensive technical training for students, faculty, and staff. Consequently, there is a pressing need to expand and enhance educational resources that serve as gateways to bridge the ever-widening computational literacy gap. 
 
