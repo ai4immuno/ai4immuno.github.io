@@ -32,7 +32,7 @@ permalink: pretty
 nav_external_links:
   - title: Discussion Forum
     url: https://github.com/ai4immuno/ai4immuno.github.io/discussions
-    hide_icon: true # set to true to hide the external link icon - defaults to false
+    hide_icon: false # set to true to hide the external link icon - defaults to false
 # aux_links:
 #   Kevin Lin:
 #     - 'https://kevinl.info'

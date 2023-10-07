@@ -10,6 +10,8 @@ nav_order: 5
 {{ site.tagline }}
 {: .no_toc .fs-6 .fw-400 }
 
+---
+
 ## Contribute & Contact
 We welcome feedback and suggestions from the community! To contact us, please reach out with any feedback: [ai4immuno [at] gmail.com](ai4immuno@gmail.com)
 

@@ -12,6 +12,8 @@ seo:
 {{ site.tagline }}
 {: .no_toc .fs-6 .fw-400 }
 
+---
+
 {% if site.announcements %}
 {{ site.announcements.last }}
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }

@@ -9,6 +9,8 @@ nav_order: 4
 {{ site.tagline }}
 {: .no_toc .fs-6 .fw-400 }
 
+---
+
 ## Learning Resources
 
 Although the most cutting-edge research is published in premier academic journals, announcements for AI tools are found in a host of other places online. In most cases, advances in AI tools are not written up as research papers and peer-reviewed. 

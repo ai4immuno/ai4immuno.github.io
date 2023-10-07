@@ -10,6 +10,8 @@ nav_order: 2
 {{ site.tagline }}
 {: .no_toc .fs-6 .fw-400 }
 
+---
+
 ## Why AI for Immunology?
 Text text text
 
