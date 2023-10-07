@@ -21,6 +21,8 @@ author: Anonymized Author
 url: 'https://ai4immuno.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "disabled"]
 logo: "/assets/images/ai4immuno-bing-dalle-logo-01.png"
+ga_tracking: G-MNRZ00KXGB
+ga_tracking_anonymize_ip: true
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.6.2
