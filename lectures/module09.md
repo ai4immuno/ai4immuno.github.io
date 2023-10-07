@@ -21,18 +21,18 @@ As enticing as it sounds to be able to generate dozens of "new" designs on the f
 ## Generative Art Tools
 Below are two browser-accessible generative art applications. Here, we showcase the output differences when given the same prompt: 
 
-> Cartoon logo with immune cells, bacteria, pathogens, and sparkles floating around a laptop showing the text: "AI 4 IMMUNO"
+> Cute cartoon logo with immune cells, bacteria, pathogens, and sparkles floating around a laptop showing the text: “AI 4 IMMUNO”
 
-* DALL-E via Bing Create, bing.com/images/create
-This option is currently free to use and appears to have a token limit, which "boosts" the speed of image generation for each query. 
+### *DALL-E via Bing Create, [bing.com/images/create](bing.com/images/create)
+<br>This option is currently free to use and appears to have a token limit, which "boosts" the speed of image generation for each query.
 
 ![Bing Create DALL-E Interface](/assets/images/09-bing-dalle-interface-01.png)
 
 ![Bing Create Result](/assets/images/09-bing-dalle-logo.png)
 
 
-* Adobe Firefly, firefly.adobe.com/
-This option requires having a subscription to Adobe Creative Cloud. 
+### Adobe Firefly, [firefly.adobe.com/](firefly.adobe.com/)
+<br>This option requires having a subscription to Adobe Creative Cloud. 
 
 ![Adobe Firefly Interface](/assets/images/09-adobe-firefly-interface-01.png)
 
@@ -41,12 +41,12 @@ This option requires having a subscription to Adobe Creative Cloud.
 ![Adobe Firefly Interface](/assets/images/09-adobe-firefly-output.png)
 
 
-* Over 150 Generative Art Tools
-The OpenTools website has curated a [list of over 150 generative art tools](https://opentools.ai/category/generative-art) which are currently available. Each may have different pricing models or availability. 
+## Over 150 Generative Art Tools
+<br>The OpenTools website has curated a [list of over 150 generative art tools](https://opentools.ai/category/generative-art) which are currently available. Each may have different pricing models or availability. 
 
 
-## Famous AI Artists
-Countless artists have been creating generative AI art for years before the release of widely available software to the public. Artworks made with AI have reached one of the highest levels of exhibition in the art world, New York's Museum of Modern Art.
+## AI Artists and Creators
+<br>Countless artists have been creating generative AI art for years before the release of widely available software to the public. Artworks made with AI have reached one of the highest levels of exhibition in the art world, New York's Museum of Modern Art.
 
 * Refik Adnadol
 * Memo Akten

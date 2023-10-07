@@ -13,4 +13,8 @@ nav_order: 7
 {:toc}
 
 ## Overview
-Module 7 overview
+
+
+## Cleaning Data
+
+## Visualizing Data

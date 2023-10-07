@@ -13,5 +13,7 @@ nav_order: 2
 {:toc}
 
 ## Overview
-Module 2 overview
-TODO need to provide brief description of AI tools
+
+
+## New AI Tools Released Daily
+Cite statistics here
