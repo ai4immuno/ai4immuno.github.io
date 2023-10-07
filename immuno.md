@@ -5,13 +5,13 @@ description: The importance of partnering immunology and AI
 nav_order: 2
 ---
 
+## Overview - Why AI for Immunology?
+
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
-
-## Overview - Immunology Relevance
 
 ## Immunology Spans Multiple Scales of Biology
 
