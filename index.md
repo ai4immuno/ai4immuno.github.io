@@ -20,10 +20,12 @@ seo:
 {% endif %}
 
 
-## Overview
-We would like to extend a warm welcome to scientists coming from a wide range of coding backgrounds!
+## The Promise of AI in Immunology
 
-For better or worse, artificial intelligence (AI) has become irrevocably woven into the fabric of our daily lives. What was once a concept confined to the realms of science fiction is now a ubiquitous reality. Take, for instance, AI chatbots like ChatGPT, which reached 100 million households in a matter of months, a feat that has taken landline telephones 75 years to accomplish. The proliferation of AI tools in the commercial market shows no signs of slowing down anytime soon, making it impossible for the academic community to keep pace with the hundreds, if not thousands, of new tools being released daily.
+Fields like computational biology, genomics, and cheminformatics have made considerable progress in establishing robust computing frameworks over the past several decades. In contrast, the field of computational immunology, although relatively nascent, holds immense potential due to its rich data landscape and inherent complexity. Thus, there is a unique opportunity for scientists to utilize AI tools to enhance research productivity in powerful, unprecedented ways.
+
+We hope this resource site serves as a warm welcome to scientists coming from a wide range of coding backgrounds!
+
 
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -34,18 +36,13 @@ For better or worse, artificial intelligence (AI) has become irrevocably woven i
 ---
 
 
-## The Promise of AI in Immunology
+## Modules for Using AI Tools
 
-Fields like computational biology, genomics, and cheminformatics have made considerable progress in establishing robust computing frameworks over the past several decades. In contrast, the field of computational immunology, although relatively nascent, holds immense potential due to its rich data landscape and inherent complexity. Thus, there is a unique opportunity for scientists to utilize AI tools to enhance research productivity in powerful, unprecedented ways.
-
+In this rapidly evolving landscape, AI has become an indispensable part of the scientific discovery process, from the initial stages of brainstorming and hypothesis generation to text editing, summarizing notes, cleaning data, writing, and debugging code, assisting in analysis, and beyond. Regardless of one’s academic discipline, the urgent question that every field faces is how to implement these AI tools into research practices and provide comprehensive technical training for students, faculty, and staff. Consequently, there is a pressing need to expand and enhance educational resources that serve as gateways to bridge the ever-widening computational literacy gap. 
 
 We center a holistic approach by advocating for AI-powered tools and training that empower immunologists to tackle the data-driven complexities of their discipline with confidence and competence. 
 
 Within this context, we delve into how AI software tools can serve as invaluable assistive technologies, breaking down disciplinary barriers and helping scientists overcome steep learning curves. 
-
-## Modules for Using AI Tools
-
-In this rapidly evolving landscape, AI has become an indispensable part of the scientific discovery process, from the initial stages of brainstorming and hypothesis generation to text editing, summarizing notes, cleaning data, writing, and debugging code, assisting in analysis, and beyond. Regardless of one’s academic discipline, the urgent question that every field faces is how to implement these AI tools into research practices and provide comprehensive technical training for students, faculty, and staff. Consequently, there is a pressing need to expand and enhance educational resources that serve as gateways to bridge the ever-widening computational literacy gap. 
 
 Additionally, we present real-world examples gathered from various social media platforms, showcasing how scientists can leverage these instances to craft domain-specific applications. Our inspiration stems from users on platforms such as Reddit and X/Twitter, who have used AI tools, such as ChatGPT and GitHub Copilot, to create entire applications and small-scale software demos, often without extensive prior programming knowledge.
 
