@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: AI for Immunology
 tagline: A Resource Hub of AI Tools for the Immunology Community
-description: Warm welcome to scientists from non-coding backgrounds!
+description: A Resource Hub of AI Tools for the Immunology Community
 author: Anonymized Author
 #baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
 url: 'https://ai4immuno.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
