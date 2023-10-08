@@ -17,12 +17,15 @@ While fields like computational biology, genomics, and cheminformatics have made
 
 Immunology, as a discipline, is an expansive and intricate tapestry that spans multiple biological scales. It encompasses the minute details of protein interactions, cytokine signaling, and single-cell behaviors while extending to complex systems across multiple organs. Moreover, it operates across a wide spectrum of model systems, some of which, like mice, do not always possess direct counterparts or orthologs in humans. Immunologists employ a diverse array of bench techniques to interrogate biological and disease interactions at high resolution, from cutting-edge gene editing to multi-generational breeding and cell line engineering.
 
+---
 
 ## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+
+---
 
 ## Immunology Spans Multiple Scales of Biology
 One striking aspect of immunology is its sheer breadth and complexity. It's virtually impossible for a single immunologist to become an expert in every model system, immune cell type, immune-related disease setting from cancer to autoimmunity, pathogen type (encompassing viruses, parasites, bacteria, fungi), and to comprehend the diverse ways these diseases manifest in various phenotypes and symptoms.

@@ -26,6 +26,7 @@ Fields like computational biology, genomics, and cheminformatics have made consi
 
 We hope this resource site serves as a warm welcome to scientists coming from a wide range of coding backgrounds!
 
+---
 
 ## Table of Contents
 {: .no_toc .text-delta }

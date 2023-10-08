@@ -17,11 +17,15 @@ Although the most cutting-edge research is published in premier academic journal
 
 Instead, the latest news can be found on social media platforms, community forums, professional networking sites, personal blogs, and technology media sites. We plan to update this list of resources over time, and if you have suggestions of materials to share, please let us know and we would be happy to update the list.
 
+---
+
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+
+---
 
 ## Staying Up-to-Date
 
