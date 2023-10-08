@@ -24,7 +24,7 @@ seo:
 
 Fields like computational biology, genomics, and cheminformatics have made considerable progress in establishing robust computing frameworks over the past several decades. In contrast, the field of computational immunology, although relatively nascent, holds immense potential due to its rich data landscape and inherent complexity. Thus, there is a unique opportunity for scientists to utilize AI tools to enhance research productivity in powerful, unprecedented ways.
 
-We hope this resource site serves as a warm welcome to scientists coming from a wide range of coding backgrounds!
+We hope this resource site serves as a warm welcome for scientists coming from a wide range of backgrounds!
 
 ---
 

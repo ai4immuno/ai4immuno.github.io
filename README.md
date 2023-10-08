@@ -1,5 +1,7 @@
 # AI for Immunology (AI4Immuno)
 
+![website preview](/assets/images/00-ai4immuno-website-homepage.png)
+
 
 ### License
 All materials in this repository are released under the [MIT License](https://opensource.org/license/mit/).
