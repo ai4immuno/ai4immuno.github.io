@@ -65,10 +65,19 @@ Instead, the latest news can be found on social media platforms, community forum
 * Open to more suggestions!
 
 ### Books for Emerging Tech Trends
-* Future Skills: The 20 Skills and Competencies Everyone Needs to Succeed in a Digital World by Bernard Marr
-* After the Digital Tornado: Networks, Algorithms, Humanity by Kevin Werbach
-* Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications by Chip Huyen
-* The Future Internet: How the Metaverse, Web 3.0, and Blockchain Will Transform Business and Society by Bernard Marr
+* (May 2023) The AI Revolution in Medicine: GPT-4 and Beyond by Peter Lee, Carey Goldberg, and Isaac Kohane
+* (Mar 2023) Impromptu: Amplifying Our Humanity Through AI by Reid Hoffman
+* (Nov 2022) Power and Prediction: The Disruptive Economics of Artificial Intelligence by Ajay Agrawal, Joshua Gans, and Avi Goldfarb
+* (Jul 2022) Future Skills: The 20 Skills and Competencies Everyone Needs to Succeed in a Digital World by Bernard Marr
+* (Jun 2022) Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications by Chip Huyen
+* (Nov 2021) The Age of AI: And Our Human Future by Henry Kissinger, Eric Schmidt, and Daniel Huttenlocher
+* (Oct 2020) The Alignment Problem by Brian Christian
+* (Jul 2020) After the Digital Tornado: Networks, Algorithms, Humanity by Kevin Werbach
+* (Oct 2019) Artificial Intelligence: A Guide for Thinking Humans by Melanie Mitchell
+* (Oct 2019) Human Compatible: Artificial Intelligence and the Problem of Control by Stuart Russell
+* (Sept 2019) Rebooting AI: Building Artificial Intelligence We Can Trust by Gary Marcus and Ernest Davis
+* (Sept 2015) The Master Algorithm by Pedro Domingos
+* (Nov 2003) The Creative Mind: Myths and Mechanisms, 2nd Edition by Margaret Boden
 
 ### Technology News Digests
 * Wired
@@ -137,8 +146,9 @@ A course provided by the University of Central Florida detailing beginner and ad
 ## AI4Science Community
 AI for Science is a growing community dedicated to AI-assisted scientific discovery across a wide range of domains (pictured below). This community has hosted several workshops at ICML and NeurIPS in addition to publishing a Nature paper on the role of AI in scientific discovery. 
 * Website: [AI4Science Community](https://ai4sciencecommunity.github.io/)
-* Article: [Wang, H., Fu, T., Du, Y. et al. Scientific discovery in the age of artificial intelligence. Nature (2023)](https://www.nature.com/articles/s41586-023-06221-2#citeas)
+* Article: [Wang, H., Fu, T., Du, Y. et al. Scientific discovery in the age of artificial intelligence. Nature (2023)](https://www.nature.com/articles/s41586-023-06221-2)
 * LinkedIn: [AI for Science LinkedIn Group](https://www.linkedin.com/company/ai-for-science/)
 * Twitter: [@AI_for_Science](https://twitter.com/AI_for_Science)
 
 ![A4Science Fig](/assets/images/01-ai4science-fig.png)
+> Alt Text: A flow chart figure of a circle of arrows running in a circle from the text "AI for science" to "Hypotheses" to "Experiments" to "Observations" with a broad list of application areas underneath (weather forecasting, battery design optimization, magnetic control of nuclear fusion reactors, planning chemical synthesis pathway, neural solvers of differential equations, hydropower station location planning, synthetic electronic health record generation, rare event selection in particle collisions, language modelling for biomedical sequences, high-throughput virtual screening, navigation in the hypothesis space, super-resolution 3D live-cell imaging, and symbolic regression) _([Source: 2023 Nature](https://www.nature.com/articles/s41586-023-06221-2))_
