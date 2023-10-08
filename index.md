@@ -24,7 +24,7 @@ seo:
 
 Fields like computational biology, genomics, and cheminformatics have made considerable progress in establishing robust computing frameworks over the past several decades. In contrast, the field of computational immunology, although relatively nascent, holds immense potential due to its rich data landscape and inherent complexity. Thus, there is a unique opportunity for scientists to utilize AI tools to enhance research productivity in powerful, unprecedented ways.
 
-We hope this resource site serves as a warm welcome for scientists coming from a wide range of backgrounds!
+We hope this resource site serves as a warm welcome for scientists of all backgrounds who are curious about using AI for their own research practices!
 
 ---
 
@@ -52,7 +52,7 @@ Additionally, we present real-world examples gathered from various social media 
 
 Furthermore, we provide a complementary website containing learning modules and supplementary educational resources. Our goal is to prepare future immunologists to take the lead in developing the computational immunology infrastructure, a challenge they are uniquely positioned to strategize and address as domain experts. Generative AI applications are fundamentally reshaping the way scientists across disciplines approach research problems, and it is essential that we equip the next generation with the tools, knowledge, and agency they need to thrive in this evolving environment.
 
-## Contribute & Contact
+## Contribute and Contact
 We welcome feedback and suggestions from the community! To contact us, please reach out with any feedback: [ai4immuno [at] gmail.com](ai4immuno@gmail.com)
 
 We are creating a submission form to accept suggestions about new resources, papers, and/or case studies to feature on the website.

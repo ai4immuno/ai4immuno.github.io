@@ -5,7 +5,7 @@
 ## Visit the Website!
 [ai4immuno.github.io](ai4immuno.github.io)
 
-## Contribute & Contact
+## Contribute and Contact
 We welcome feedback and suggestions from the community! To contact us, please reach out with any feedback: [ai4immuno [at] gmail.com](ai4immuno@gmail.com)
 
 We are creating a submission form to accept suggestions about new resources, papers, and/or case studies to feature on the website.

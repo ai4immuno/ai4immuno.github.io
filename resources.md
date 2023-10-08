@@ -15,7 +15,7 @@ nav_order: 4
 
 Although the most cutting-edge research is published in premier academic journals, announcements for AI tools are found in a host of other places online. In most cases, advances in AI tools are not written up as research papers and peer-reviewed. 
 
-Instead, the latest news can be found on social media platforms, community forums, professional networking sites, personal blogs, and technology media sites. We plan to update this list of resources over time, and if you have suggestions of materials to share, please let us know and we would be happy to update the list.
+Instead, the latest news can be found on social media platforms, community forums, professional networking sites, personal blogs, and technology media sites. We plan to update this list of resources over time, and if you have suggestions of materials to share, please let us know and we would be happy to add to the list.
 
 ---
 
@@ -113,8 +113,8 @@ In addition to the websites listed above, here are some summary articles curated
 ## Formal Schooling vs. Self-Taught Methods
 * Expand on immunology vs CS courses vs data science vs bioinformatics vs learn by failing models
 
-### Immunology
-* Textbook Taught to Every Immunology Student: [Janeway's Immunobiology](https://wwnorton.com/books/9780393884890)
+## Immunology
+* Textbook taught to every Immunology student: [Janeway's Immunobiology](https://wwnorton.com/books/9780393884890)
 * Need more suggestions
 
 ## Massive Open Online Courses (MOOC)
