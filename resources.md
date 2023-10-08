@@ -102,7 +102,8 @@ Instead, the latest news can be found on social media platforms, community forum
 * Forbes
 * BusinessInsider
 * And many more
-<br> In addition to the websites listed above, here are some summary articles curated with AI news outlets.
+
+In addition to the websites listed above, here are some summary articles curated with AI news outlets.
 
 * Forbes: ["The 29 Best (And Free) ChatGPT And Generative AI Courses And Resources"](https://www.forbes.com/sites/bernardmarr/2023/05/24/the-29-best-and-free-chatgpt-and-generative-ai-courses-and-resources/?sh=14bf14a94a6f)
 * Medium: ["7 Mind-Blowing Websites to Keep Up with AI News!"](https://medium.com/@severintom_42671/10-mind-blowing-websites-to-keep-up-with-ai-news-81ff58e60429)
