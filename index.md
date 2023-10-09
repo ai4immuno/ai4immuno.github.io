@@ -51,7 +51,7 @@ The rich tapestry of data extends from the molecular interactions within individ
 
 Immunology's prominence in the medical landscape is unmistakable, with a significant portion of FDA drug approvals in 2022 relating to immunology. The scale of both challenges and potential applications in immunology is growing exponentially, positioning it as the frontier where AI's capabilities can shine.
 
-However, this endeavor is not without its challenges. The complexities of translating clinical observations into research questions (and vice versa), navigating the vast diversity of clinical phenotypes, and bridging disciplinary languages basic researchers and clinicians who sometimes employ the same terminology yet coded with different meanings all pose significant hurdles.
+However, this endeavor is not without its challenges. Basic researchers and clinicians sometimes employ the same terminology, albeit coded with different meanings. The complexities of translating clinical observations into research questions (and vice versa), navigating the vast diversity of clinical phenotypes, and bridging disciplinary languages all pose significant hurdles.
 
 ## The Promise of AI for Computational & Systems Immunology
 We recognized the vastness of intellectual real estate in immunology and the overwhelming speed of AI advancement. Because of this pressure to keep up with AI tools and research, we created this website to pool resources for the community.
