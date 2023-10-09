@@ -33,7 +33,7 @@ Immunology stands as a discipline uniquely enriched by vast repositories of big 
 
 Immunologists employ a diverse array of bench techniques to interrogate biological and disease interactions at high resolution, from cutting-edge gene editing to multi-generational murine breeding and cell line engineering.
 
-These cutting-edge tools, including all the flavors of cytometry, enable researchers to dissect the intricate intricacies of the immune system at unprecedented levels of granularity. In addition, new technologies, like multi-color imaging techniques and high-throughput sequencing, each demand their own pipelines.  
+These cutting-edge tools, such as various flavors of cytometry, enable researchers to dissect the intricacies of the immune system at unprecedented levels of granularity. In addition, new technologies, like multi-color imaging techniques and high-throughput sequencing, each demand their own pipelines.  
 
 The rich tapestry of data extends from the molecular interactions within individual cells to the broader systems-level understanding of immune responses across various tissues and organs. This immense data landscape, brimming with intricate biological details, makes immunology an ideal candidate for AI-driven solutions to decipher complex patterns, extract meaningful insights, and accelerate scientific discovery.
 
@@ -44,6 +44,6 @@ Immunology's prominence in the medical landscape is unmistakable, with a signifi
 However, this endeavor is not without its challenges. The complexities of translating clinical observations into research questions (and vice versa), navigating the vast diversity of clinical phenotypes, and bridging disciplinary languages basic researchers and clinicians who sometimes employ the same terminology yet coded with different meanings all pose significant hurdles.
 
 ## The Promise of AI for Computational & Systems Immunology
-We recognized the vastness of intellectual real estate in immunology and the overhwelming speed of AI advancement. Because of this pressure to keep up with AI tools and research, we created this website to pool resources for the community.
+We recognized the vastness of intellectual real estate in immunology and the overwhelming speed of AI advancement. Because of this pressure to keep up with AI tools and research, we created this website to pool resources for the community.
 
 Immunology experts possess a profound grasp of existing gaps, technical data limitations, biological variations, and research challenges. We hope this resource hub makes it easier for scientists to navigate the AI landscape for their own domain-specific applications.

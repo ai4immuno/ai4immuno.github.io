@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Overview
+title: Home
 nav_order: 1
 seo:
   type: Course
