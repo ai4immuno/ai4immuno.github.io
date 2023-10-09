@@ -47,10 +47,10 @@ These cutting-edge tools, such as various flavors of cytometry, enable researche
 
 The rich tapestry of data extends from the molecular interactions within individual cells to the broader systems-level understanding of immune responses across various tissues and organs. This immense data landscape, brimming with intricate biological details, makes immunology an ideal candidate for AI-driven solutions to decipher complex patterns, extract meaningful insights, and accelerate scientific discovery.
 
-## Immunology is a Huge Player in Drug Approvals
+## Translating Bench to Bedside and Back
+
 Immunology's prominence in the medical landscape is unmistakable, with a significant portion of FDA drug approvals in 2022 relating to immunology. The scale of both challenges and potential applications in immunology is growing exponentially, positioning it as the frontier where AI's capabilities can shine.
 
-## Translating Bench to Bedside and Back
 However, this endeavor is not without its challenges. The complexities of translating clinical observations into research questions (and vice versa), navigating the vast diversity of clinical phenotypes, and bridging disciplinary languages basic researchers and clinicians who sometimes employ the same terminology yet coded with different meanings all pose significant hurdles.
 
 ## The Promise of AI for Computational & Systems Immunology
