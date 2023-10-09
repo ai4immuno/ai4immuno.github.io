@@ -20,9 +20,8 @@ seo:
 {% endif %}
 
 
-## The Promise of AI in Immunology
-
-Fields like computational biology, genomics, and cheminformatics have made considerable progress in establishing robust computing frameworks over the past several decades. In contrast, the field of computational immunology, although relatively nascent, holds immense potential due to its rich data landscape and inherent complexity. Thus, there is a unique opportunity for scientists to utilize AI tools to enhance research productivity in powerful, unprecedented ways.
+## Why AI for Immunology?
+Immunology is everywhere. As a discipline, the domain is an expansive and intricate tapestry that spans multiple biological scales. From protein expression, cytokine signaling, and single-cell interactions all the way up to tissue organization across multiple organs in complex systems. Immunology is uniquely positioned for transformation through AI because of its inherent complexity and richness.
 
 We hope this resource site serves as a warm welcome for scientists of all backgrounds who are curious about using AI for their own research practices!
 
@@ -36,26 +35,25 @@ We hope this resource site serves as a warm welcome for scientists of all backgr
 
 ---
 
+## Spanning Multiple Scales of Biology
+One striking aspect of immunology is its sheer breadth and complexity. It's virtually impossible for a single immunologist to become an expert in every model system, immune cell type, immune-related disease setting from cancer to autoimmunity, pathogen type (encompassing viruses, parasites, bacteria, fungi), and to comprehend the diverse ways these diseases manifest in various phenotypes and symptoms.
 
-## Modules for Using AI Tools
+## We're Rich! (In Datasets and Knowledge)
+Immunology stands as a discipline uniquely enriched by vast repositories of big data, thanks to a multitude of advanced molecular and next-generation single-cell technologies. 
 
-In this rapidly evolving landscape, AI has become an indispensable part of the scientific discovery process, from the initial stages of brainstorming and hypothesis generation to text editing, summarizing notes, cleaning data, writing, and debugging code, assisting in analysis, and beyond. Regardless of one’s academic discipline, the urgent question that every field faces is how to implement these AI tools into research practices and provide comprehensive technical training for students, faculty, and staff. Consequently, there is a pressing need to expand and enhance educational resources that serve as gateways to bridge the ever-widening computational literacy gap. 
+Immunologists employ a diverse array of bench techniques to interrogate biological and disease interactions at high resolution, from cutting-edge gene editing to multi-generational murine breeding and cell line engineering.
 
-We center a holistic approach by advocating for AI-powered tools and training that empower immunologists to tackle the data-driven complexities of their discipline with confidence and competence. 
+These cutting-edge tools, such as various flavors of cytometry, enable researchers to dissect the intricacies of the immune system at unprecedented levels of granularity. In addition, new technologies, like multi-color imaging techniques and high-throughput sequencing, each demand their own pipelines.  
 
-Within this context, we delve into how AI software tools can serve as invaluable assistive technologies, breaking down disciplinary barriers and helping scientists overcome steep learning curves. 
+The rich tapestry of data extends from the molecular interactions within individual cells to the broader systems-level understanding of immune responses across various tissues and organs. This immense data landscape, brimming with intricate biological details, makes immunology an ideal candidate for AI-driven solutions to decipher complex patterns, extract meaningful insights, and accelerate scientific discovery.
 
-Additionally, we present real-world examples gathered from various social media platforms, showcasing how scientists can leverage these instances to craft domain-specific applications. Our inspiration stems from users on platforms such as Reddit and X/Twitter, who have used AI tools, such as ChatGPT and GitHub Copilot, to create entire applications and small-scale software demos, often without extensive prior programming knowledge.
+## Immunology is a Huge Player in Drug Approvals
+Immunology's prominence in the medical landscape is unmistakable, with a significant portion of FDA drug approvals in 2022 relating to immunology. The scale of both challenges and potential applications in immunology is growing exponentially, positioning it as the frontier where AI's capabilities can shine.
 
+## Translating Bench to Bedside and Back
+However, this endeavor is not without its challenges. The complexities of translating clinical observations into research questions (and vice versa), navigating the vast diversity of clinical phenotypes, and bridging disciplinary languages basic researchers and clinicians who sometimes employ the same terminology yet coded with different meanings all pose significant hurdles.
 
-## Learning Resources
+## The Promise of AI for Computational & Systems Immunology
+We recognized the vastness of intellectual real estate in immunology and the overwhelming speed of AI advancement. Because of this pressure to keep up with AI tools and research, we created this website to pool resources for the community.
 
-Furthermore, we provide a complementary website containing learning modules and supplementary educational resources. Our goal is to prepare future immunologists to take the lead in developing the computational immunology infrastructure, a challenge they are uniquely positioned to strategize and address as domain experts. Generative AI applications are fundamentally reshaping the way scientists across disciplines approach research problems, and it is essential that we equip the next generation with the tools, knowledge, and agency they need to thrive in this evolving environment.
-
-## Contribute and Contact
-We welcome feedback and suggestions from the community! To contact us, please reach out with any feedback: [ai4immuno [at] gmail.com](ai4immuno@gmail.com)
-
-We are creating a submission form to accept suggestions about new resources, papers, and/or case studies to feature on the website.
-
-## Join the Discussion
-Make suggestions or ask questions directly on the [AI4Immuno Github Repo](https://github.com/ai4immuno/ai4immuno.github.io/discussions)
+Immunology experts possess a profound grasp of existing gaps, technical data limitations, biological variations, and research challenges. We hope this resource hub makes it easier for scientists to navigate the AI landscape for their own domain-specific applications.
