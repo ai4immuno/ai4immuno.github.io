@@ -155,5 +155,5 @@ AI for Science is a growing community dedicated to AI-assisted scientific discov
 * LinkedIn: [AI for Science LinkedIn Group](https://www.linkedin.com/company/ai-for-science/)
 * Twitter: [@AI_for_Science](https://twitter.com/AI_for_Science)
 
-![A4Science Fig](/assets/images/01-ai4science-fig.png)
+![A4Science Fig](/assets/images/00-ai4science-fig.png)
 > Alt Text: A flow chart figure of a circle of arrows running in a circle from the text "AI for science" to "Hypotheses" to "Experiments" to "Observations" with a broad list of application areas underneath (weather forecasting, battery design optimization, magnetic control of nuclear fusion reactors, planning chemical synthesis pathway, neural solvers of differential equations, hydropower station location planning, synthetic electronic health record generation, rare event selection in particle collisions, language modelling for biomedical sequences, high-throughput virtual screening, navigation in the hypothesis space, super-resolution 3D live-cell imaging, and symbolic regression) _([Source: 2023 Nature](https://www.nature.com/articles/s41586-023-06221-2))_

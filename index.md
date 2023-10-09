@@ -38,7 +38,7 @@ We hope this resource site serves as a warm welcome for scientists of all backgr
 ## Spanning Multiple Scales of Biology
 One striking aspect of immunology is its sheer breadth and complexity. It's virtually impossible for a single immunologist to become an expert in every model system, immune cell type, immune-related disease setting from cancer to autoimmunity, pathogen type (encompassing viruses, parasites, bacteria, fungi), and to comprehend the diverse ways these diseases manifest in various phenotypes and symptoms.
 
-## We're Rich! (In Datasets and Knowledge)
+## We're Rich! (In Data and Knowledge)
 Immunology stands as a discipline uniquely enriched by vast repositories of big data, thanks to a multitude of advanced molecular and next-generation single-cell technologies. 
 
 Immunologists employ a diverse array of bench techniques to interrogate biological and disease interactions at high resolution, from cutting-edge gene editing to multi-generational murine breeding and cell line engineering.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI x Immuno Goals
+title: Overview
 description: The importance of partnering immunology and AI
 nav_order: 2
 ---
