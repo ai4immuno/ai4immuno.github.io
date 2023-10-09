@@ -48,6 +48,7 @@ Instead, the latest news can be found on social media platforms, community forum
     * r/ChatGPT
     * r/ChatGPTCoding
     * r/OpenAI
+    * r/MachineLearning
     * r/cscareerquestions
     * r/datascience
 
@@ -111,14 +112,37 @@ In addition to the websites listed above, here are some summary articles curated
 
 
 ## Formal Schooling vs. Self-Taught Methods
-* Expand on immunology vs CS courses vs data science vs bioinformatics vs learn by failing models
+In today's ever-evolving landscape of knowledge, the traditional model of returning to school for new degrees in emerging domains may not always be feasible. Instead, the role of scientists is increasingly that of lifelong learners. 
 
-## Immunology
+### Bioinformatics
+* (Oct 2023) Nature: [How to spice up your bioinformatics skill set with AI](https://www.nature.com/articles/d41586-023-03067-6)
+
+### Immunology
 * Textbook taught to every Immunology student: [Janeway's Immunobiology](https://wwnorton.com/books/9780393884890)
-* Need more suggestions
+* _List in progress_
+
+### Data Science Skills
+* Coding: [Programming in R]()
+* Coding: [Python]()
+* Coding: [Bash/Shell Scripting]()
+
+### Precision Health
+* (Aug 2023) Tutorial: [Precision Health in the Age of LLMs](https://precisionhealthllm.github.io/) by Hoifung Poon, Tristan Naumann, Sheng Zhang, Javier González Hernández from Microsoft Research
+    * Features slides and an expansive list of resources:
+        * Precision Health
+        * LLMs for Precision Health: GPT-4 in Medicine, Biomedical LLMs, LLMs for Real-World Evidence, LLMs for Drug Discovery
+        * Application Challenges: Bias, Hallucinations
+        * Research Frontiers: Prompt Programming, Retrieval-Augmented Generation (RAG), Knowledge Distillation, Multi-Modal Learning, Causal Discovery
+
+
+
+
+
 
 ## Massive Open Online Courses (MOOC)
-A handful of examples provided within this Forbes list of: ["The 29 Best (And Free) ChatGPT And Generative AI Courses And Resources"](https://www.forbes.com/sites/bernardmarr/2023/05/24/the-29-best-and-free-chatgpt-and-generative-ai-courses-and-resources/?sh=14bf14a94a6f)
+Massive open online courses (MOOCs) have emerged as a powerful tool to facilitate this continuous learning journey. Over the past decade, MOOCs have witnessed a remarkable increase in quality, credibility, and popularity. Academic institutions and industry leaders have collaborated to offer MOOCs across a wide range of subjects, from coding to data science, prompt engineering for both beginners and seasoned developers, stable diffusion, and more. 
+
+Here are a handful of examples provided within this list from Forbes: ["The 29 Best (And Free) ChatGPT And Generative AI Courses And Resources"](https://www.forbes.com/sites/bernardmarr/2023/05/24/the-29-best-and-free-chatgpt-and-generative-ai-courses-and-resources/?sh=14bf14a94a6f)
 
 ### [Prompt Engineering Course for ChatGPT](https://www.coursera.org/learn/prompt-engineering)
 A Vanderbilt University course delivered through Coursera that acts as an introduction to writing useful and effective prompts for those with little to no technical skills.
@@ -128,12 +152,6 @@ Taught by AI legend Andrew Ng and OpenAI's Isa Fulford aimed at those who want t
 
 ### [Stable Diffusion](https://www.classcentral.com/course/youtube-lecture-8-stable-diffusion-132022)
 A course provided by the University of Central Florida detailing beginner and advanced methods for this powerful AI image tool.
-
-
-## Data Science Skills
-* Coding: [Programming in R]()
-* Coding: [Python]()
-* Coding: [Bash/Shell Scripting]()
 
 
 ## Machine Learning Operations
