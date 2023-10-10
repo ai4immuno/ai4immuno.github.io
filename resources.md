@@ -118,10 +118,11 @@ In today's ever-evolving landscape of knowledge, the traditional model of return
 * (Oct 2023) Nature: [How to spice up your bioinformatics skill set with AI](https://www.nature.com/articles/d41586-023-03067-6)
 
 ### Immunology
+_Section currently in progress_
 * Textbook taught to every Immunology student: [Janeway's Immunobiology](https://wwnorton.com/books/9780393884890)
-* _List in progress_
 
 ### Data Science Skills
+_Section currently in progress_
 * Coding: [Programming in R]()
 * Coding: [Python]()
 * Coding: [Bash/Shell Scripting]()
@@ -133,10 +134,6 @@ In today's ever-evolving landscape of knowledge, the traditional model of return
         * LLMs for Precision Health: GPT-4 in Medicine, Biomedical LLMs, LLMs for Real-World Evidence, LLMs for Drug Discovery
         * Application Challenges: Bias, Hallucinations
         * Research Frontiers: Prompt Programming, Retrieval-Augmented Generation (RAG), Knowledge Distillation, Multi-Modal Learning, Causal Discovery
-
-
-
-
 
 
 ## Massive Open Online Courses (MOOC)
